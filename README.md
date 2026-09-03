@@ -1,6 +1,6 @@
 # My Git Practice
 
-I am learning Git and GitHub.
+I am learning Git and GitHub - Developer B.
 
 My first GitHub project.
 
